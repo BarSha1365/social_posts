@@ -51,8 +51,10 @@ desktop.ini
 
 # Lokale Konfigurationsdateien (falls du sensible Daten auslagerst)
 .env
-data/tokyo-epoch-466621-e4-b4a01d722a17.json
 config.local.ini
 
 # Log-Dateien
 *.log
+# Sensible Anmeldedaten und Schlüsseldateien ignorieren
+*.json
+*.pem
