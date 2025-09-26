@@ -1,0 +1,360 @@
+{
+  "menu_signature": "efafd492c36d17ad74da12191eb781c525ab8fe5d927e896d727fd2127d9ef93",
+  "generated_at": "2025-08-17",
+  "ingredients": [
+    {
+      "name": "Hähnchen",
+      "count": 5,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Parmesan",
+      "count": 4,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Sauerteigbrot",
+      "count": 4,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Oliven",
+      "count": 3,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Feta",
+      "count": 3,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Zucchini",
+      "count": 3,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Minze",
+      "count": 3,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Rucola",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Hähnchenbrust",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Edamame",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Räucherlachs",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Babyspinat",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Kartoffeln",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Brokkoli",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Limette",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Grenadine",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Maracuja",
+      "count": 2,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Pinienkernen",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Trüffel",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Cherrytomaten",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Mozzarella",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Serrano-Schinken",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Chorizo",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Frühlingsrollen",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Ziegenkäse",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Honig",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Walnüsse",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Romanasalat",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Thunfisch",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Rote bete",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Zwiebeln",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Tomatensauce",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Lachs",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Apfel",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Safran",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Jasminreis",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Berberitzen",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Falafel",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Tzatziki",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Karotten",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Paprika",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Seelachs",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Ente",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Grüne Erbsen",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Mango",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Kichererbsen",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Teriyaki-Sauce",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Aperol",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Prosecco",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Holunder",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Apfelsecco",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Lillet",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Hendricks",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Limoncello",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Chai-Latte",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Blaubeeren",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Lavendel",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Preiselbeere",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    },
+    {
+      "name": "Ingwer",
+      "count": 1,
+      "approved": true,
+      "note": ""
+    }
+  ]
+}

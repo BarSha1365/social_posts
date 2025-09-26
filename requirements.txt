@@ -1,0 +1,5 @@
+openai
+openai>=1.40.0
+python-dateutil
+python-dotenv
+requests

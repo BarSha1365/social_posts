@@ -1,0 +1,264 @@
+{
+  "ingredients": [
+    {
+      "name": "Aioli",
+      "fact": "Aioli ist eine cremige Sauce, die aus Knoblauch, Olivenöl und häufig Eigelb hergestellt wird. Sie hat einen intensiven, aromatischen Geschmack, der gut zu vielen Gerichten passt, insbesondere zu gegrilltem Fleisch, Gemüse oder als Dip für Brot. Die wichtigsten Nährstoffe in Aioli sind gesunde Fette aus dem Olivenöl, Vitamin E und Antioxidantien, die aus dem Knoblauch stammen. Diese Nährstoffe können zur Unterstützung der allgemeinen Gesundheit beitragen, da sie entzündungshemmende Eigenschaften besitzen. Durch den hohen Fettgehalt ist Aioli kalorienreich, sodass eine moderate Verwendung ratsam ist, um die Ernährung ausgewogen zu gestalten. Die Kombination von Aromen und Nährstoffen macht Aioli zu einer vielseitigen Ergänzung in der Küche."
+    },
+    {
+      "name": "Ananas",
+      "fact": "Ananas ist eine tropische Frucht, die für ihren süßen, saftigen Geschmack und die charakteristische Säure bekannt ist. Sie wird häufig in Obstsalaten, Smoothies und als Zutat in herzhaften Gerichten verwendet. In der Küche kann Ananas frisch, gegrillt oder auch als Saft genossen werden. Die Frucht ist reich an wichtigen Nährstoffen, insbesondere Vitamin C, das zur Unterstützung des Immunsystems beiträgt, sowie Mangan, das eine Rolle im Stoffwechsel spielt. Darüber hinaus enthält Ananas Bromelain, ein Enzym, das bei der Verdauung von Proteinen helfen kann. Die Kombination dieser Nährstoffe macht Ananas zu einer wertvollen Ergänzung einer ausgewogenen Ernährung."
+    },
+    {
+      "name": "Aperitif",
+      "fact": "Aperitifs sind Getränke, die vor dem Essen serviert werden und mit herben, fruchtigen oder bitteren Noten auf den ersten Schluck einstimmen. Traditionell als geselliger Auftakt gedacht – am besten in Maßen genießen."
+    },
+    {
+      "name": "Aperol",
+      "fact": "Aperol ist ein italienischer Aperitif mit fruchtig-bitteren Noten von Bitterorange und Kräutern (11 % Vol.). Am besten gut gekühlt genießen – z. B. als Spritz mit Prosecco, Soda, Eis und Orangenscheibe. Perfekt für den Aperitivo-Moment."
+    },
+    {
+      "name": "Apfel",
+      "fact": ""
+    },
+    {
+      "name": "Apfelsecco",
+      "fact": "Apfelsecco ist ein prickelndes Apfelgetränk mit fruchtig-frischer Note. Gut gekühlt als Aperitif oder zu leichten Speisen genießen."
+    },
+    {
+      "name": "Babyspinat",
+      "fact": "Babyspinat zeichnet sich durch seinen milden, leicht süßlichen Geschmack aus, der ihn zu einer vielseitigen Zutat in der Küche macht. Er wird häufig roh in Salaten verwendet, kann aber auch in Smoothies, Suppen oder als Beilage zu warmen Gerichten eingesetzt werden. Nährstofftechnisch ist Babyspinat reich an Vitaminen wie A, C und K sowie Mineralstoffen wie Eisen und Kalzium, was ihn zu einer wertvollen Ergänzung einer ausgewogenen Ernährung macht. Zudem enthält er Antioxidantien und Ballaststoffe. In der Regel ist Babyspinat gut verträglich, jedoch können bei manchen Personen Allergien oder Unverträglichkeiten auftreten. Es ist ratsam, bei bekannten Empfindlichkeiten auf die individuelle Reaktion zu achten."
+    },
+    {
+      "name": "Baileys",
+      "fact": "Baileys ist ein cremiger Likör auf Basis von irischem Whiskey und Sahne. Mild-süß und samtig – am besten gut gekühlt oder auf Eis genießen."
+    },
+    {
+      "name": "Berberitzen",
+      "fact": "Säuerlich-fruchtig, klassisch in der persischen Küche – perfekt zu Reis."
+    },
+    {
+      "name": "Blaubeeren",
+      "fact": ""
+    },
+    {
+      "name": "Brokkoli",
+      "fact": "Brokkoli hat einen milden, leicht bitteren Geschmack mit einer knackigen Textur, die beim Kochen erhalten bleibt. In der Küche wird er häufig gedämpft, blanchiert oder in Pfannengerichten verwendet und passt gut zu einer Vielzahl von Gewürzen und Saucen. Nährstofftechnisch ist Brokkoli reich an Vitaminen, insbesondere Vitamin C und K, sowie an Ballaststoffen und Antioxidantien. Diese Eigenschaften machen ihn zu einer wertvollen Ergänzung einer ausgewogenen Ernährung. In der Regel ist Brokkoli gut verträglich, jedoch können bei empfindlichen Personen Blähungen oder Magenbeschwerden auftreten. Allergien gegen Brokkoli sind selten, können aber in Einzelfällen vorkommen."
+    },
+    {
+      "name": "Caesardressing",
+      "fact": ""
+    },
+    {
+      "name": "Chai-Latte",
+      "fact": ""
+    },
+    {
+      "name": "Cherrytomaten",
+      "fact": "Cherrytomaten zeichnen sich durch ihren süßen, fruchtigen Geschmack und ihre saftige Textur aus. Sie sind vielseitig in der Küche einsetzbar und finden häufig Verwendung in Salaten, als Snack, in Pasta-Gerichten oder als Beilage zu Fleisch und Fisch. Ihre leuchtenden Farben machen sie zudem zu einer attraktiven Zutat in verschiedenen Gerichten. Nährstofftechnisch sind Cherrytomaten reich an Vitamin C, Kalium und Antioxidantien, insbesondere Lycopin, das mit verschiedenen gesundheitlichen Vorteilen in Verbindung gebracht wird. Allgemein sind sie gut verträglich, jedoch können bei empfindlichen Personen Magenbeschwerden auftreten. Allergien gegen Tomaten sind selten, sollten aber im Einzelfall berücksichtigt werden."
+    },
+    {
+      "name": "Chorizo",
+      "fact": "Chorizo ist eine würzige, luftgetrocknete Wurst, die ihren Ursprung in der spanischen und portugiesischen Küche hat. Ihr charakteristischer Geschmack resultiert aus einer Mischung von Paprika, Knoblauch und weiteren Gewürzen, die ihr eine intensive, rauchige Note verleihen. In der Küche wird Chorizo häufig in Eintöpfen, Paellas oder als Teil von Tapas verwendet. Sie kann sowohl roh als auch gekocht genossen werden. Nährwerttechnisch ist Chorizo proteinreich, enthält jedoch auch einen hohen Fettgehalt, insbesondere gesättigte Fette, und sollte daher in Maßen konsumiert werden. Aufgrund des hohen Salzgehalts ist sie für Menschen mit Bluthochdruck möglicherweise weniger geeignet. Allergiker sollten beachten, dass Chorizo häufig Schweinefleisch enthält, was für bestimmte Personengruppen relevant sein kann."
+    },
+    {
+      "name": "Earl Grey",
+      "fact": ""
+    },
+    {
+      "name": "Edamame",
+      "fact": "Edamame sind unreife Sojabohnen, die einen milden, leicht süßlichen Geschmack mit einer nussigen Note aufweisen. Sie werden häufig in der asiatischen Küche verwendet, insbesondere als Snack oder Beilage, oft leicht gesalzen und warm serviert. Auch in Salaten, Suppen oder als Bestandteil von Bowls finden Edamame Verwendung. Nährstofftechnisch sind sie eine gute Quelle für pflanzliches Eiweiß, Ballaststoffe sowie verschiedene Vitamine und Mineralstoffe, darunter Eisen und Folsäure. Aufgrund ihres pflanzlichen Ursprungs sind sie für viele vegetarische und vegane Ernährungsweisen geeignet. Menschen mit einer Sojaallergie sollten jedoch vorsichtig sein, da Edamame allergene Reaktionen hervorrufen können."
+    },
+    {
+      "name": "Erbsen",
+      "fact": ""
+    },
+    {
+      "name": "Erdbeer",
+      "fact": ""
+    },
+    {
+      "name": "Falafel",
+      "fact": ""
+    },
+    {
+      "name": "Feta-Käse",
+      "fact": "Feta ist ein halbfester Käse aus Schafsmilch oder einer Mischung aus Schaf- und Ziegenmilch, der vor allem aus Griechenland stammt. Sein Geschmack ist würzig und leicht salzig, mit einer cremigen Textur, die sich gut in verschiedenen Gerichten macht. Typischerweise wird Feta in Salaten, wie dem griechischen Salat, oder als Zutat in Aufläufen und Pastagerichten verwendet. Nährwerttechnisch enthält Feta moderate Mengen an Eiweiß und Fett, wobei der Fettgehalt je nach Herstellungsart variieren kann. Zudem liefert er Kalzium und einige B-Vitamine. Personen mit Laktoseintoleranz oder einer Allergie gegen Schaf- oder Ziegenmilch sollten vorsichtig sein, da Feta aus diesen Milchsorten hergestellt wird."
+    },
+    {
+      "name": "Grenadine",
+      "fact": "Grenadine ist ein alkoholfreier Sirup mit fruchtiger Granatapfel-Note. Sorgt in Drinks für Farbe und Süße – sparsam dosieren."
+    },
+    {
+      "name": "Grüner Tee",
+      "fact": ""
+    },
+    {
+      "name": "Gurke",
+      "fact": ""
+    },
+    {
+      "name": "Hendricks Gin",
+      "fact": ""
+    },
+    {
+      "name": "Holundersirup",
+      "fact": "Holundersirup bringt blumig-frische Süße in Getränke. Mit kaltem Wasser oder Soda aufgießen; beliebt im Sommer mit Eis und Zitrone."
+    },
+    {
+      "name": "Honig",
+      "fact": "Honig ist ein süßer, viskoser Naturstoff, der aus dem Nektar von Blüten gewonnen wird. Sein Geschmack variiert je nach Blütenquelle und kann von mild und blumig bis kräftig und malzig reichen. In der Küche findet Honig vielseitige Verwendung: Er dient als Süßungsmittel in Getränken, Desserts und Marinaden und verfeinert Salatdressings und Saucen. Nährstofftechnisch enthält Honig vor allem Zucker, hauptsächlich in Form von Fructose und Glucose, sowie geringe Mengen an Vitaminen und Mineralstoffen. Aufgrund seines hohen Zuckergehalts sollte er in Maßen genossen werden. Bei der Verträglichkeit ist zu beachten, dass Honig Allergien auslösen kann, insbesondere bei Menschen mit einer Allergie gegen Pollen oder bestimmte Pflanzen. Zudem ist er für Säuglinge unter einem Jahr nicht geeignet, da das Risiko einer Botulismus-Infektion besteht."
+    },
+    {
+      "name": "Ingwer",
+      "fact": ""
+    },
+    {
+      "name": "Jasminreis",
+      "fact": ""
+    },
+    {
+      "name": "Karotten",
+      "fact": ""
+    },
+    {
+      "name": "Kartoffeln",
+      "fact": "Kartoffeln sind ein vielseitiges Grundnahrungsmittel, das in vielen Küchen weltweit geschätzt wird. Ihr Geschmack variiert je nach Zubereitungsart, von mild und cremig bis hin zu herzhaft und knusprig. Sie eignen sich hervorragend für Püree, Bratkartoffeln, Aufläufe oder als Beilage zu Fleisch- und Gemüsegerichten. Nährstofftechnisch sind Kartoffeln reich an Kohlenhydraten, Ballaststoffen, Vitamin C und verschiedenen B-Vitaminen. Sie enthalten zudem Mineralstoffe wie Kalium und Magnesium. In der Regel sind Kartoffeln gut verträglich, jedoch können einige Menschen auf Nachtschattengewächse empfindlich reagieren, was zu Unverträglichkeiten führen kann. Es ist ratsam, bei bestehenden Allergien oder Unverträglichkeiten Rücksprache mit einem Fachmann zu halten."
+    },
+    {
+      "name": "Kichererbsen",
+      "fact": ""
+    },
+    {
+      "name": "Kokosmilch",
+      "fact": ""
+    },
+    {
+      "name": "Lachs",
+      "fact": ""
+    },
+    {
+      "name": "Lavendel",
+      "fact": ""
+    },
+    {
+      "name": "Lillet",
+      "fact": "Lillet ist ein französischer Aperitif aus Wein und Zitrus-/Kräuteraromen. Frisch und elegant – beliebt als Lillet Vive mit Tonic, Gurke und Beeren."
+    },
+    {
+      "name": "Limette",
+      "fact": "Die Limette zeichnet sich durch ihren intensiven, sauren Geschmack aus, der oft als erfrischend beschrieben wird. In der Küche findet sie vielfältige Verwendung, insbesondere in der asiatischen, lateinamerikanischen und karibischen Küche. Limettensaft wird häufig in Dressings, Marinaden und Cocktails eingesetzt, während die Schale als Aromastoff in Desserts und herzhaften Gerichten dient. Nährstofftechnisch enthält die Limette Vitamin C, das zur normalen Funktion des Immunsystems beiträgt, sowie kleine Mengen an B-Vitaminen und Mineralstoffen wie Kalium. In der Regel ist die Limette gut verträglich, jedoch können bei empfindlichen Personen allergische Reaktionen auftreten. Zudem sollte bei einer Zitrusfruchtempfindlichkeit Vorsicht geboten sein."
+    },
+    {
+      "name": "Limoncello",
+      "fact": "Limoncello ist ein Zitronenlikör aus Italien mit intensiver Zitrusnote. Eisgekühlt pur nach dem Essen oder als spritzige Basis in Getränken genießen."
+    },
+    {
+      "name": "Mango",
+      "fact": ""
+    },
+    {
+      "name": "Maracuja",
+      "fact": "Die Maracuja, auch Passionsfrucht genannt, zeichnet sich durch ihren intensiven, süß-sauren Geschmack aus, der an tropische Früchte erinnert. Sie wird häufig in Desserts, Smoothies, Säfte und Cocktails verwendet, da ihr Aroma eine erfrischende Note verleiht. In der Küche findet sie auch Verwendung in Salatdressings oder als Topping für Joghurt und Pudding. Nährstofftechnisch ist die Maracuja reich an Vitamin C, Ballaststoffen und Antioxidantien, was sie zu einer gesunden Ergänzung der Ernährung macht. Allerdings sollten Personen mit einer Allergie gegen Passionsfrüchte vorsichtig sein, da sie allergische Reaktionen hervorrufen können. Auch bei empfindlichem Magen kann der hohe Säuregehalt zu Beschwerden führen."
+    },
+    {
+      "name": "Minze",
+      "fact": "Minze zeichnet sich durch ihren frischen, kühlenden Geschmack aus, der in der Küche vielseitig eingesetzt wird. Sie findet häufig Verwendung in Salaten, Saucen, Tees und Desserts, insbesondere in Kombination mit Obst oder Joghurt. In der mediterranen und asiatischen Küche ist sie ein beliebtes Gewürz, das Gerichte wie Taboulé oder verschiedene Currys bereichert. Nährstofftechnisch ist Minze kalorienarm und enthält geringe Mengen an Vitaminen wie Vitamin A und C sowie Mineralstoffen wie Eisen und Mangan. Die Blätter sind zudem reich an ätherischen Ölen, die für den charakteristischen Geschmack verantwortlich sind. In der Regel ist Minze gut verträglich, jedoch können bei empfindlichen Personen allergische Reaktionen auftreten. Daher sollte bei Unverträglichkeiten Vorsicht geboten sein."
+    },
+    {
+      "name": "Mozzarella",
+      "fact": "Mozzarella ist ein milder, leicht elastischer Käse, der aus Büffel- oder Kuhmilch hergestellt wird. Sein Geschmack ist cremig und leicht süßlich, was ihn zu einer beliebten Zutat in vielen Gerichten macht. Typischerweise wird Mozzarella in der italienischen Küche verwendet, zum Beispiel in Caprese-Salaten, Pizza oder Pasta-Gerichten. Nährwerttechnisch enthält Mozzarella relativ viel Fett, jedoch auch Protein und Calcium, was ihn zu einer energiedichten, aber nährstoffreichen Wahl macht. Bei der Verträglichkeit ist zu beachten, dass Mozzarella Laktose enthält, was für Menschen mit Laktoseintoleranz problematisch sein kann. Zudem sollten Personen mit einer Milchallergie auf den Verzehr verzichten."
+    },
+    {
+      "name": "Oliven",
+      "fact": "Oliven zeichnen sich durch ihren charakteristischen, leicht bitteren Geschmack aus, der je nach Sorte variieren kann – von mild und fruchtig bis hin zu intensiv und würzig. In der Küche finden sie vielseitige Verwendung, etwa als Bestandteil von Antipasti, in Salaten, auf Pizzen oder als Beigabe zu verschiedenen mediterranen Gerichten. Nährwerttechnisch sind Oliven reich an einfach ungesättigten Fettsäuren, die als gesund gelten, sowie an Antioxidantien, Vitaminen und Mineralstoffen. Sie enthalten jedoch auch einen hohen Anteil an Natrium, insbesondere wenn sie eingelegt oder mariniert sind. Allergien gegen Oliven sind selten, jedoch können Menschen mit einer Allergie gegen andere Steinfrüchte empfindlich reagieren. Bei der Verwendung sollte auf die individuelle Verträglichkeit geachtet werden."
+    },
+    {
+      "name": "Paprika",
+      "fact": ""
+    },
+    {
+      "name": "Parmesan",
+      "fact": "Parmesan ist ein hart gereifter Käse mit einem intensiven, nussigen Geschmack und einer leicht salzigen Note. Er wird häufig in der italienischen Küche verwendet, beispielsweise als Topping für Pasta, Risotto oder Salate. Auch in Saucen und als Bestandteil von Käseplatten findet er Verwendung. Nährstofftechnisch ist Parmesan reich an Proteinen und Calcium, enthält jedoch auch relativ viel Fett und Natrium, weshalb der Verzehr in Maßen empfohlen wird. Personen mit Laktoseintoleranz können Parmesan oft gut vertragen, da der Laktosegehalt während des Reifungsprozesses stark abnimmt. Dennoch sollten Menschen mit einer Milchallergie auf den Verzehr verzichten, da Parmesan aus Kuhmilch hergestellt wird."
+    },
+    {
+      "name": "Pinienkerne",
+      "fact": "Pinienkerne haben einen milden, leicht süßlichen Geschmack mit einer zarten, nussigen Note. Sie werden häufig in der mediterranen Küche verwendet, beispielsweise in Pesto, Salaten oder als Topping für Pasta-Gerichte. Auch in Backwaren und Müslis finden sie Anwendung. Nährstofftechnisch sind Pinienkerne reich an ungesättigten Fettsäuren, Proteinen, Ballaststoffen sowie verschiedenen Vitaminen und Mineralstoffen, darunter Magnesium und Zink. Aufgrund ihres hohen Fettgehalts sind sie kalorienreich, was bei der Portionskontrolle berücksichtigt werden sollte. In Bezug auf die Verträglichkeit sind Pinienkerne für die meisten Menschen unproblematisch, jedoch können sie bei einigen Personen Allergien auslösen, insbesondere bei Nussallergikern. Daher ist Vorsicht geboten, wenn man allergische Reaktionen in der Vergangenheit hatte."
+    },
+    {
+      "name": "Preiselbeere",
+      "fact": ""
+    },
+    {
+      "name": "Prosecco",
+      "fact": "Prosecco ist ein spritziger Schaumwein aus Venetien. Frisch, fruchtig und leicht – ideal gut gekühlt als Aperitif oder Basis für Cocktails wie Spritz. Passt zu leichten Vorspeisen und sommerlichen Abenden."
+    },
+    {
+      "name": "Rote Bete",
+      "fact": "Rote Bete hat einen erdigen, leicht süßlichen Geschmack, der in vielen Gerichten zur Geltung kommt. Sie wird häufig roh in Salaten, gekocht als Beilage oder püriert in Suppen verwendet. Auch als Zutat in Smoothies oder als natürliche Farbgebung in verschiedenen Speisen findet sie Anwendung. Nährstofftechnisch ist Rote Bete reich an Ballaststoffen, Vitamin C, Folsäure sowie Mineralstoffen wie Kalium und Magnesium. Ihr Gehalt an Betain wird mit positiven Effekten auf den Stoffwechsel in Verbindung gebracht. In der Regel ist Rote Bete gut verträglich, jedoch können bei manchen Menschen Magenbeschwerden auftreten. Allergien sind selten, sollten aber im Einzelfall beachtet werden."
+    },
+    {
+      "name": "Rucola",
+      "fact": "Rucola, auch bekannt als Rauke, hat einen würzigen, leicht scharfen Geschmack, der an Senf erinnert. In der Küche wird er häufig roh in Salaten, als Beilage zu Pasta oder auf Pizza verwendet. Auch als Zutat in Sandwiches und Wraps erfreut sich Rucola großer Beliebtheit. Nährstofftechnisch ist Rucola reich an Vitaminen, insbesondere Vitamin K, Vitamin C und Folsäure, sowie Mineralstoffen wie Kalzium und Eisen. Zudem enthält er sekundäre Pflanzenstoffe, die antioxidative Eigenschaften besitzen. In der Regel ist Rucola gut verträglich, jedoch können bei empfindlichen Personen Allergien oder Unverträglichkeiten auftreten, insbesondere bei Menschen, die auf andere Kreuzblütler reagieren."
+    },
+    {
+      "name": "Räucherlachs",
+      "fact": "Räucherlachs hat einen charakteristischen, intensiven Geschmack, der durch den Räucherprozess verstärkt wird. Er wird häufig in der kalten Küche verwendet, beispielsweise als Belag auf Brot oder in Salaten, und eignet sich auch gut für Vorspeisen oder als Bestandteil von Canapés. Nährstofftechnisch ist Räucherlachs eine gute Quelle für hochwertiges Eiweiß sowie Omega-3-Fettsäuren, die für die Gesundheit von Herz und Gehirn wichtig sind. Zudem enthält er Vitamine wie B12 und Mineralstoffe wie Selen. Aufgrund des hohen Salzgehalts sollte der Verzehr bei Personen mit Bluthochdruck oder Nierenproblemen moderat erfolgen. Menschen mit einer Fisch- oder Meeresfrüchte-Allergie sollten Räucherlachs vermeiden, da er Allergene enthalten kann."
+    },
+    {
+      "name": "Safran",
+      "fact": "Für 1 kg Safran braucht man bis zu 150.000 Blüten – intensives Aroma, hoher Preis."
+    },
+    {
+      "name": "Sauerteigbrot",
+      "fact": "Sauerteigbrot zeichnet sich durch seinen charakteristischen, leicht säuerlichen Geschmack aus, der durch die Fermentation mit natürlichen Hefen und Milchsäurebakterien entsteht. In der Küche findet es vielfältige Verwendung, sei es als Basis für Sandwiches, als Beilage zu Suppen oder als Träger für Aufstriche. Nährstofftechnisch ist Sauerteigbrot oft bekömmlicher als herkömmliches Brot, da die Fermentation die Verdaulichkeit von Gluten verbessert und die Verfügbarkeit von Mineralstoffen erhöht. Zudem enthält es Ballaststoffe, die zur Darmgesundheit beitragen können. Menschen mit Glutenunverträglichkeit sollten jedoch vorsichtig sein, da Sauerteigbrot in der Regel aus Weizenmehl hergestellt wird. Es ist ratsam, die individuellen Verträglichkeiten zu beachten und gegebenenfalls alternative Brotsorten zu wählen."
+    },
+    {
+      "name": "Schinken",
+      "fact": ""
+    },
+    {
+      "name": "Seelachs",
+      "fact": ""
+    },
+    {
+      "name": "Serrano-Schinken",
+      "fact": "Serrano-Schinken ist ein luftgetrockneter Schinken aus Spanien, der durch seinen intensiven, salzigen Geschmack und die zarte Textur besticht. Er wird häufig in der mediterranen Küche verwendet, sowohl als Bestandteil von Tapas als auch als Beilage zu Käse und Brot. Der Schinken kann auch in Salaten oder auf Pizzen eingesetzt werden. Nährwerttechnisch ist Serrano-Schinken reich an Proteinen und enthält eine moderate Menge an Fett, wobei ein Großteil davon ungesättigte Fettsäuren sind. Zudem liefert er Mineralstoffe wie Eisen und Zink. Aufgrund des hohen Salzgehalts sollte er jedoch in Maßen konsumiert werden. Personen mit einer Empfindlichkeit gegenüber Schweinefleisch oder einer Salzreduktion in der Ernährung sollten vorsichtig sein."
+    },
+    {
+      "name": "Teriyaki-soße",
+      "fact": ""
+    },
+    {
+      "name": "Thunfisch",
+      "fact": "Thunfisch hat einen charakteristischen, leicht salzigen Geschmack mit einer festen, fleischigen Textur. In der Küche wird er häufig in Salaten, Sandwiches, Pasta-Gerichten und Sushi verwendet. Thunfisch ist besonders beliebt in der mediterranen und asiatischen Küche. Nährstofftechnisch ist Thunfisch eine gute Proteinquelle und enthält wichtige Omega-3-Fettsäuren, die für die Herzgesundheit von Bedeutung sind. Zudem liefert er Vitamine wie B12 und Mineralstoffe wie Selen. Aufgrund seines Quecksilbergehalts wird jedoch empfohlen, den Verzehr bei Schwangeren, stillenden Frauen und kleinen Kindern zu moderieren. Allergien gegen Fisch sind relativ häufig, weshalb Personen mit Fischallergien Thunfisch meiden sollten."
+    },
+    {
+      "name": "Tomaten",
+      "fact": ""
+    },
+    {
+      "name": "Trüffel",
+      "fact": "Trüffel sind unterirdisch wachsende Pilze, die für ihren intensiven, erdigen Geschmack und ihr unverwechselbares Aroma geschätzt werden. Sie werden häufig in der gehobenen Küche verwendet, um Gerichte wie Pasta, Risotto oder Fleischgerichte zu verfeinern. Trüffel können frisch, in Form von Öl oder als Gewürz eingesetzt werden. Nährstofftechnisch sind sie kalorienarm, enthalten jedoch einige Mineralstoffe wie Eisen und Kupfer sowie Antioxidantien. Aufgrund ihrer speziellen Wachstumsbedingungen sind Trüffel in der Regel teuer und saisonabhängig. Allergische Reaktionen auf Trüffel sind selten, jedoch können Personen mit einer Allergie gegen Pilze oder bestimmte Lebensmittelvorsorgen vorsichtig sein. Es ist ratsam, beim ersten Verzehr auf mögliche Unverträglichkeiten zu achten."
+    },
+    {
+      "name": "Tzatziki",
+      "fact": ""
+    },
+    {
+      "name": "Walnüsse",
+      "fact": "Walnüsse zeichnen sich durch ihren intensiven, leicht bitteren Geschmack und die knackige Textur aus. Sie finden häufig Verwendung in Salaten, Müsli, Backwaren sowie als Snack und können auch in herzhaften Gerichten, wie Pesto oder Saucen, eingesetzt werden. Nährstofftechnisch sind Walnüsse reich an ungesättigten Fettsäuren, insbesondere Omega-3-Fettsäuren, sowie an Proteinen, Ballaststoffen, Vitaminen und Mineralstoffen. Ein hoher Gehalt an Antioxidantien macht sie zu einer wertvollen Ergänzung der Ernährung. Aufgrund ihres hohen Fettgehalts sind sie jedoch kalorienreich. Personen mit Nussallergien sollten Walnüsse meiden, da sie eine häufige Allergie auslösen können. Auch Kreuzreaktionen mit anderen Nüssen sind möglich."
+    },
+    {
+      "name": "Ziegenkäse",
+      "fact": "Ziegenkäse zeichnet sich durch seinen charakteristischen, leicht herben Geschmack aus, der je nach Reifegrad von mild bis intensiv variieren kann. In der Küche wird er häufig in Salaten, auf Crostini, in Pasta-Gerichten oder als Bestandteil von Quiches verwendet. Zudem harmoniert er gut mit süßen Zutaten wie Honig oder Früchten, was ihn zu einer vielseitigen Zutat macht. Nährwerttechnisch ist Ziegenkäse eine gute Quelle für hochwertiges Eiweiß, Kalzium und einige Vitamine, insbesondere der B-Gruppe. Er enthält jedoch auch einen höheren Fettanteil, was bei der Portionskontrolle berücksichtigt werden sollte. Bei der Verträglichkeit ist zu beachten, dass Ziegenkäse oft besser vertragen wird als Kuhmilchprodukte, jedoch sollten Personen mit einer Ziegenmilchallergie Vorsicht walten lassen."
+    },
+    {
+      "name": "Zucchini",
+      "fact": "Zucchini ist ein vielseitiges Gemüse, das einen milden, leicht süßlichen Geschmack hat. In der Küche wird sie häufig in verschiedenen Zubereitungsarten verwendet, darunter gedünstet, gegrillt oder in Aufläufen. Sie eignet sich auch gut als Zutat in Salaten oder als Füllung für Gemüsegerichte. Nährstofftechnisch ist Zucchini kalorienarm und enthält einen hohen Wasseranteil, was sie zu einer erfrischenden Wahl macht. Sie liefert zudem Ballaststoffe, Vitamin C und einige B-Vitamine. In der Regel ist Zucchini gut verträglich und hat ein niedriges Allergiepotenzial. Dennoch sollten Menschen mit einer bekannten Allergie gegen Kürbisgewächse vorsichtig sein, da Zucchini zu dieser Familie gehört."
+    },
+    {
+      "name": "Zwiebel",
+      "fact": ""
+    }
+  ]
+}

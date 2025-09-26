@@ -1,0 +1,863 @@
+{
+  "2025-01-01": {
+    "beschreibung": "Neujahr",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-04": {
+    "beschreibung": "Tag der Spaghetti",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-05": {
+    "beschreibung": "Nationaler Tag des Vogels",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-06": {
+    "beschreibung": "Heilige Drei Könige",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-08": {
+    "beschreibung": "Räume-Deinen-Schreibtisch-auf-Tag, Tag des Schaumbades",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-09": {
+    "beschreibung": "Spiele-Gott-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-10": {
+    "beschreibung": "Tag der Zimmerpflanze",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-11": {
+    "beschreibung": "Tag des deutschen Apfels",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-12": {
+    "beschreibung": "Tag des Marzipans",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-13": {
+    "beschreibung": "Tag des Quietscheentchens",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-14": {
+    "beschreibung": "Schaff-Ordnung-in-Deiner-Wohnung-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-15": {
+    "beschreibung": "Tag der Wikipedia",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-17": {
+    "beschreibung": "Wirf-Deine-Jahresvorsätze-über-Bord-Tag, Tag der italienischen Küche",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-19": {
+    "beschreibung": "Tag des Popcorns",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-20": {
+    "beschreibung": "Martin Luther King Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-22": {
+    "beschreibung": "Feiere-das-Leben-Tag, Tag der scharfen Saucen",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-27": {
+    "beschreibung": "Tag des Schokoladenkuchens",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-28": {
+    "beschreibung": "Tag des Blaubeerpfannkuchen",
+    "kategorie": "Sonstiges"
+  },
+  "2025-01-30": {
+    "beschreibung": "Tag des Croissants",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-01": {
+    "beschreibung": "Ändere-Dein-Passwort-Tag, Dekoriere-mit-Süßigkeiten-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-03": {
+    "beschreibung": "Eis-zum-Frühstück-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-05": {
+    "beschreibung": "Tag der Meteorologen",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-06": {
+    "beschreibung": "Tag der lahmen Ente",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-07": {
+    "beschreibung": "Schick-einem-Freund-eine-Karte-Tag, Tag der Rose",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-10": {
+    "beschreibung": "Tag des Regenschirms, Tag des Teddys",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-11": {
+    "beschreibung": "Safer Internet Day",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-12": {
+    "beschreibung": "Internationaler Darwin-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-13": {
+    "beschreibung": "Tag der Tortellini",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-14": {
+    "beschreibung": "Valentinstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-15": {
+    "beschreibung": "Kinderkrebstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-16": {
+    "beschreibung": "Tag der Mandel",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-17": {
+    "beschreibung": "Tag der grundlosen Nettigkeiten",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-18": {
+    "beschreibung": "Trinke Wein Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-19": {
+    "beschreibung": "Tag der Minzschokolade",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-20": {
+    "beschreibung": "Welttag der sozialen Gerechtigkeit, Liebe-Dein-Haustier-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-21": {
+    "beschreibung": "Internationaler Tag der Muttersprache",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-22": {
+    "beschreibung": "Sei-Bescheiden-Tag, Tag der Margarita",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-23": {
+    "beschreibung": "Spiel-Tennis-Tag, Tag des Hundekuchens",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-24": {
+    "beschreibung": "Tag der Schwertschlucker",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-25": {
+    "beschreibung": "Tag der Schachtelsätze",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-26": {
+    "beschreibung": "Tag der Pistazie",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-27": {
+    "beschreibung": "Weiberfastnacht",
+    "kategorie": "Sonstiges"
+  },
+  "2025-02-28": {
+    "beschreibung": "Tag der Floristik, Schlaf-in-der-Öffentlichkeit-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-01": {
+    "beschreibung": "Frühlingsanfang (meteorologisch), Zero Discrimination Day, Welttag des Buches, Welttag des Kompliments",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-02": {
+    "beschreibung": "Faschingssonntag, Tag der Verkäufer",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-03": {
+    "beschreibung": "Rosenmontag, Welttag des Hörens, Tag des Artenschutzes",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-04": {
+    "beschreibung": "Faschingsdienstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-05": {
+    "beschreibung": "Aschermittwoch",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-06": {
+    "beschreibung": "Tag der ungewöhnlichen Namen, Oreo-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-07": {
+    "beschreibung": "Tag der gesunden Ernährung",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-08": {
+    "beschreibung": "Internationaler Frauentag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-10": {
+    "beschreibung": "Tag der Großartigkeit",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-17": {
+    "beschreibung": "St. Patricks Day",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-18": {
+    "beschreibung": "Tag der peinlichen Momente",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-19": {
+    "beschreibung": "Frühstück-am-Arbeitsplatz-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-20": {
+    "beschreibung": "Weltglückstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-22": {
+    "beschreibung": "Weltwassertag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-23": {
+    "beschreibung": "Tag der Welpen",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-25": {
+    "beschreibung": "Tag der Waffel",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-26": {
+    "beschreibung": "Purple Day",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-27": {
+    "beschreibung": "Welttag des Theaters",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-28": {
+    "beschreibung": "Tag der Schwarzwälder Kirschtorte",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-29": {
+    "beschreibung": "Tag des Zitronenkuchens",
+    "kategorie": "Sonstiges"
+  },
+  "2025-03-30": {
+    "beschreibung": "Umstellung auf Sommerzeit",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-01": {
+    "beschreibung": "April Fools Day",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-02": {
+    "beschreibung": "Internationaler Kinderbuchtag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-03": {
+    "beschreibung": "Welt-Party-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-06": {
+    "beschreibung": "Welt-Olympiatag, Karamell-Popocorn-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-07": {
+    "beschreibung": "Weltgesundheitstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-08": {
+    "beschreibung": "Welttag für die Berufung",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-09": {
+    "beschreibung": "Gib-Dir-einen-Namen-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-10": {
+    "beschreibung": "Tag der Geschwister",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-11": {
+    "beschreibung": "Tag der Haustiere",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-12": {
+    "beschreibung": "Tag der Kosmonauten",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-13": {
+    "beschreibung": "Ehrentag der Pflanze",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-14": {
+    "beschreibung": "Momente-des-Lachens-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-15": {
+    "beschreibung": "Kuckuckstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-16": {
+    "beschreibung": "Tag der Stimme",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-17": {
+    "beschreibung": "Gründonnerstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-18": {
+    "beschreibung": "Karfreitag, Internationaler Denkmaltag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-19": {
+    "beschreibung": "Record Store Day",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-20": {
+    "beschreibung": "Ostersonntag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-21": {
+    "beschreibung": "Ostermontag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-22": {
+    "beschreibung": "Tag der Erde",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-23": {
+    "beschreibung": "Tag des Deutschen Bieres",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-24": {
+    "beschreibung": "Girls Day",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-25": {
+    "beschreibung": "Metricool Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-26": {
+    "beschreibung": "Welttag des geistigen Eigentums",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-27": {
+    "beschreibung": "Welt-Grafiker-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-29": {
+    "beschreibung": "Welttag des Tanzes",
+    "kategorie": "Sonstiges"
+  },
+  "2025-04-30": {
+    "beschreibung": "Walpurgisnacht, Tag der Ehrlichkeit",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-01": {
+    "beschreibung": "Tag der Arbeit",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-02": {
+    "beschreibung": "Tag des Babys",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-03": {
+    "beschreibung": "Tag der Sonne",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-04": {
+    "beschreibung": "Ohne-Hose-Tag, Star-Wars-Tag, Weltlachtag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-05": {
+    "beschreibung": "Welttag der Handhygiene",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-06": {
+    "beschreibung": "Welt-Asthma-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-08": {
+    "beschreibung": "Ohne-Socken-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-09": {
+    "beschreibung": "Tag der verlorenen Socke",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-10": {
+    "beschreibung": "Weltzugvogeltag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-11": {
+    "beschreibung": "Muttertag, Iss-was-du-willst-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-12": {
+    "beschreibung": "Internationaler Tag der Pflege",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-13": {
+    "beschreibung": "Internationaler Tag des Cocktails",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-14": {
+    "beschreibung": "Tag der Kinderbetreuung",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-15": {
+    "beschreibung": "Internationaler Tag der Familie",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-16": {
+    "beschreibung": "Internationaler Tag des Lichts",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-17": {
+    "beschreibung": "Welt-Whiskey-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-18": {
+    "beschreibung": "Kein-schmutziges-Geschirr-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-19": {
+    "beschreibung": "Malcolm-X-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-20": {
+    "beschreibung": "Weltbienentag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-21": {
+    "beschreibung": "Welttag für kulturelle Entwicklung",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-22": {
+    "beschreibung": "Internationaler Tag der biologischen Vielfalt",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-23": {
+    "beschreibung": "Welt-Schildkröten-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-24": {
+    "beschreibung": "Tag des Parks",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-25": {
+    "beschreibung": "Tag des Handtuches",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-27": {
+    "beschreibung": "Tag der Sonnencreme",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-28": {
+    "beschreibung": "Internationaler Weltspieltag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-29": {
+    "beschreibung": "Vatertag, Christi Himmelfahrt",
+    "kategorie": "Sonstiges"
+  },
+  "2025-05-31": {
+    "beschreibung": "Weltnichtrauchertag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-01": {
+    "beschreibung": "Sommeranfang, Internationaler Kindertag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-02": {
+    "beschreibung": "Ich-liebe-meinen-Zahnarzt-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-03": {
+    "beschreibung": "Weltfahrradtag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-04": {
+    "beschreibung": "Umarme-deine-Katze-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-05": {
+    "beschreibung": "Welttag der Umwelt",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-06": {
+    "beschreibung": "Tag des Donut",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-07": {
+    "beschreibung": "Pfingstsamstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-08": {
+    "beschreibung": "Pfingstsonntag, Tag des Meeres",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-09": {
+    "beschreibung": "Pfingstmontag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-10": {
+    "beschreibung": "Kindersicherheitstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-14": {
+    "beschreibung": "Flag Day",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-15": {
+    "beschreibung": "Autofreier Sonntag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-16": {
+    "beschreibung": "Tag des afrikanischen Kindes",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-18": {
+    "beschreibung": "Autistic Pride Day",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-19": {
+    "beschreibung": "Fronleichnam",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-20": {
+    "beschreibung": "Tag der Flip Flops",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-21": {
+    "beschreibung": "Internationaler T-Shirt-Tag, Tag des Schlafes",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-22": {
+    "beschreibung": "Internationaler Motorrad Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-23": {
+    "beschreibung": "Tag des öffentlichen Dienstes",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-24": {
+    "beschreibung": "Johannistag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-25": {
+    "beschreibung": "Tag des Seefahrers",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-27": {
+    "beschreibung": "Weltdufttag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-28": {
+    "beschreibung": "Tag der Versicherungen",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-29": {
+    "beschreibung": "Tag des Waffeneisens",
+    "kategorie": "Sonstiges"
+  },
+  "2025-06-30": {
+    "beschreibung": "Tag des Meteors",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-01": {
+    "beschreibung": "Tag der Früchte",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-02": {
+    "beschreibung": "Tag des Ufos",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-06": {
+    "beschreibung": "Internationaler Tag des Kusses",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-07": {
+    "beschreibung": "Tag der Schokolade",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-11": {
+    "beschreibung": "Weltbevölkerungstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-12": {
+    "beschreibung": "Tag der Einfachheit",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-16": {
+    "beschreibung": "Tag des Hotdogs, Weltschlangentag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-17": {
+    "beschreibung": "Internationaler Tag der Gerechtigkeit",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-18": {
+    "beschreibung": "Nelson-Mandela-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-20": {
+    "beschreibung": "Weltraumforschungstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-22": {
+    "beschreibung": "Tag der Hängematte",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-25": {
+    "beschreibung": "Tag des Systemadministrators",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-26": {
+    "beschreibung": "Internationaler Tag der Netzhaut",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-27": {
+    "beschreibung": "Tag der Seenotretter",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-29": {
+    "beschreibung": "Tag des Tigers",
+    "kategorie": "Sonstiges"
+  },
+  "2025-07-30": {
+    "beschreibung": "Tag der Freundschaft",
+    "kategorie": "Sonstiges"
+  },
+  "2025-08-01": {
+    "beschreibung": "Internationaler Tag des Bieres",
+    "kategorie": "Sonstiges"
+  },
+  "2025-08-08": {
+    "beschreibung": "Weltkatzentag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-08-12": {
+    "beschreibung": "Tag der Jugend",
+    "kategorie": "Sonstiges"
+  },
+  "2025-08-15": {
+    "beschreibung": "Mariä Himmelfahrt",
+    "kategorie": "Sonstiges"
+  },
+  "2025-08-16": {
+    "beschreibung": "Tag der Bratwurst",
+    "kategorie": "Sonstiges"
+  },
+  "2025-08-25": {
+    "beschreibung": "Welt-Tofu-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-01": {
+    "beschreibung": "Herbstanfang (meteorologisch)",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-08": {
+    "beschreibung": "Weltbildungstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-09": {
+    "beschreibung": "Tag des Wiener Schnitzels",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-14": {
+    "beschreibung": "Tag der Heimat",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-16": {
+    "beschreibung": "Deutscher Tafel-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-18": {
+    "beschreibung": "Tag des Cheeseburgers",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-19": {
+    "beschreibung": "Sprich-Wie-Ein-Pirat-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-20": {
+    "beschreibung": "Oktoberfest beginnt",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-21": {
+    "beschreibung": "Weltfriedentag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-24": {
+    "beschreibung": "Tag der Sauna",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-27": {
+    "beschreibung": "Welthasentag, Welttourismustag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-09-30": {
+    "beschreibung": "Tag des Übersetzers",
+    "kategorie": "Sonstiges"
+  },
+  "2025-10-01": {
+    "beschreibung": "Tag des Kaffees, Weltmusiktag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-10-03": {
+    "beschreibung": "Tag der Deutschen Einheit, Welttag des Lächelns",
+    "kategorie": "Sonstiges"
+  },
+
+  "2025-10-05": {
+    "beschreibung": "Erntedankfest",
+    "kategorie": "Sonstiges"
+  },
+  "2025-10-09": {
+    "beschreibung": "Tag des Weltpostvereins",
+    "kategorie": "Sonstiges"
+  },
+  "2025-10-10": {
+    "beschreibung": "Welthundetag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-10-16": {
+    "beschreibung": "Welttag des Brotes",
+    "kategorie": "Sonstiges"
+  },
+  "2025-10-18": {
+    "beschreibung": "Tag der Krawatte",
+    "kategorie": "Sonstiges"
+  },
+  "2025-10-25": {
+    "beschreibung": "Weltnudeltag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-10-31": {
+    "beschreibung": "Halloween",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-01": {
+    "beschreibung": "Allerheiligen, Weltvegantag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-08": {
+    "beschreibung": "Tag der Putzfrau",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-10": {
+    "beschreibung": "Welttag der Wissenschaft",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-13": {
+    "beschreibung": "Weltnettigkeitstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-14": {
+    "beschreibung": "Weltdiabetestag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-15": {
+    "beschreibung": "Putz-Deinen-Kühlschrank-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-17": {
+    "beschreibung": "Weltstudententag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-19": {
+    "beschreibung": "Welttoilettentag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-20": {
+    "beschreibung": "Philosophie",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-21": {
+    "beschreibung": "Tag des Fernsehens",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-27": {
+    "beschreibung": "Thanksgiving",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-28": {
+    "beschreibung": "Black Friday",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-29": {
+    "beschreibung": "Kauf-Nix-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-11-30": {
+    "beschreibung": "Erster Advent",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-01": {
+    "beschreibung": "Winteranfang (meteorologisch), Welt AIDS Tag, Cyber Monday",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-04": {
+    "beschreibung": "Tag der Kekse",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-06": {
+    "beschreibung": "Nikolaustag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-07": {
+    "beschreibung": "Zweiter Advent",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-10": {
+    "beschreibung": "Tag der Menschenrechte",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-13": {
+    "beschreibung": "Eiscreme Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-14": {
+    "beschreibung": "Dritter Advent",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-16": {
+    "beschreibung": "Tag des dummen Spielzeugs",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-20": {
+    "beschreibung": "Sangria-Tag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-21": {
+    "beschreibung": "Vierter Advent",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-24": {
+    "beschreibung": "Heiligabend",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-25": {
+    "beschreibung": "Erster Weihnachtstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-26": {
+    "beschreibung": "Zweiter Weihnachtstag",
+    "kategorie": "Sonstiges"
+  },
+  "2025-12-31": {
+    "beschreibung": "Silvester",
+    "kategorie": "Sonstiges"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "name": "Aperol",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Campari",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Prosecco",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Weißwein",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Roswein",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Limoncello",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Baileys",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Lillet",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Apfelsecco",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    },
+    {
+      "name": "Holundersirup",
+      "category": "beverage",
+      "cookable": false,
+      "allow_ingredient_post": true
+    }
+  ]
+}
